@@ -1,6 +1,6 @@
-# RL-w
+# RL-agent_3arm
 
-Reinforcement Learning model of a W-shaped spatial alternation maze that rats can learn over a couple hours
+Reinforcement Learning model of a 3-armed spatial alternation maze that rats can learn over a couple hours
 
 ![Wtrack image](https://github.com/droumis/RL-w/blob/cf4ff8153b00ecbaefb943195e16401ca58aadcf/Wtrack.png)
 
