@@ -1,4 +1,4 @@
-# RL-agent_3arm
+# RL_3arm
 
 Reinforcement Learning model of a 3-armed spatial alternation maze that rats can learn over a couple hours
 
